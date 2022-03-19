@@ -56,7 +56,7 @@ main{
 
 }
 .container .card-box .image::before{
-    content: url("https://wi2liamalpha.github.io/NFT-preview-card-component/images/icon-view.svg");
+    content: url(https://wi2liamalpha.github.io/NFT-preview-card-component/images/icon-view.svg);
     position: absolute;
     display: flex;
     align-items: center;
