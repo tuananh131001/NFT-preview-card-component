@@ -45,13 +45,13 @@ main{
     border-radius: 1rem;
 }
 .card-box h1{
-    font-size: 2rem; 
+    font-size: 1.4375rem; 
 
 }
 .card-box .description h2{
     color:hsl(215, 51%, 70%);
-    font-size: 1rem; 
-    font-weight: 300;
+    font-size: 1.125rem; 
+    font-weight: 400;
 }
 .card-box .coin{
     display: flex;
