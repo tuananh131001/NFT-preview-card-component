@@ -103,3 +103,11 @@ main{
     align-items: center ;
     gap: 0.5em;
 }
+@media screen and (max-width: 32rem){
+    body {
+        font-size: 0.94rem;
+    }
+    .attribution{
+        display: none;
+    }
+}
