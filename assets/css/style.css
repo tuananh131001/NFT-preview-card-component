@@ -78,6 +78,10 @@ main{
     font-size: 1.4375rem; 
 
 }
+.card-box h1:hover{
+    color:var(--Soft-blue);
+    cursor: pointer;
+}
 .card-box .description h2{
     color:var(--Soft-blue);
     font-size: 1.125rem; 
